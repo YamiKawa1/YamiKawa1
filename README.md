@@ -1,11 +1,12 @@
-### Hi there my name is  je 👋
+## Saludos! mi nombre es Jehan Veracierta 👋
 
-Here are some ideas to get you started:
+### Soy un desarrollador fullstack, inclinado hacia el backend
 
 - 🌱 Actualmente estoy aprendiendo sobre react y programacion frontend
+ 
 - 👯 Estoy buscando empezar mis primeras experiencias en el mundo laboral
 
-- 📫 How to reach me: ...
+- 📫 Como contactarme: Whatsapp: +58 4129879331 Email: jehanzao@gmail.com
 
-- ⚡ Fun fact: ...
+
 
