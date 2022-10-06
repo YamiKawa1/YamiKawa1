@@ -2,7 +2,7 @@
 
 ### Soy un desarrollador fullstack, inclinado hacia el backend
 
-- 🌱 Actualmente estoy aprendiendo sobre Docker y AWS
+- 🌱 Actualmente estoy aprendiendo sobre AWS y el ambiente de desarrollo .NET
  
 - 👯 Estoy buscando trabajos estables y de gran crecimiento profesional
 
